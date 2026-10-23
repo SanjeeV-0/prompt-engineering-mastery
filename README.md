@@ -23,7 +23,7 @@ The goal is to move beyond writing prompts by hand and develop a systematic unde
 |---|---|
 | `docs/` | Learning roadmap and technical documentation |
 | `tutorials/` | Concepts and hands-on implementations |
-| `experiments/` | Controlled experiments and recorded findings |
+| `experiments/` | Controlled experiments and recorded findings — see [`experiments/RUN_GUIDE.md`](experiments/RUN_GUIDE.md) to run the invoice-extraction prompt benchmark |
 | `evaluations/` | Datasets, metrics, and evaluation tools |
 | `projects/` | End-to-end practical applications |
 | `tests/` | Automated checks and regression tests |

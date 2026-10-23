@@ -17,6 +17,10 @@ venv/
 outputs/
 *.log
 
+# Generated benchmark run artifacts (bulky, reproducible; never commit real runs)
+experiments/results/*
+!experiments/results/.gitkeep
+
 # Local editor and operating system files
 .vscode/
 .DS_Store
