@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated outputs
+outputs/
+*.log
+
+# Local editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
